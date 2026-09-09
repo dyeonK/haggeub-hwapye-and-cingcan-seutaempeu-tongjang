@@ -1,0 +1,1 @@
+- [Firestore classroom persistence](firestore-classroom-persistence.md) — Browser Firebase Web SDK uses Firestore when configured and an explicit local preview mode otherwise.
